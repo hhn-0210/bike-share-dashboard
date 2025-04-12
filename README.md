@@ -9,3 +9,7 @@
 3. Connect PowerBI to DB
 4. Build dashboard in PowerBI
 5. Provide insights and answer business questions
+
+## Recommendation
+### Conservative increase
+
