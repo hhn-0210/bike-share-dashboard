@@ -11,5 +11,13 @@
 5. Provide insights and answer business questions
 
 ## Recommendation
-### Conservative increase
+### Conservative price increase
+Considering and substantial increase increase last year (demand? price?), a more conservative increase might be prudent to avoid hitting a price ceiling where demand starts to drop. An increase in the range or 10-15% in price could test the market without risking a significant loss to customers
+### Price setting:
+If the price in 2022 was $4.99, a 10% increase would make the new price $5.49 and a 15% increase would make it $5.74
+
+### Recommended strategy: 
+Market analysis: Conduct further market research to understand customer satisfaction, potential competitive changes, overall economic environment. This can guide weather leaning towards lower or higher end of suggested price increase.
+Segmented pricing strategy: Consider different pricing for casual vs registered users, as they might have different price sensitivity.
+Monitor and adjust: implement new prices but be ready based on immediate feedback and sales data. Monitor closely will allow you to fine tune your pricing startegy without committing fully to a price that might turn out too high.
 
