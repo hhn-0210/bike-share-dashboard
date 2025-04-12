@@ -10,6 +10,12 @@
 4. Build dashboard in PowerBI
 5. Provide insights and answer business questions
 
+## Database creation
+
+## SQL queries
+
+## Dashboard output
+
 ## Recommendation
 ### Conservative price increase
 Considering and substantial 25% in price increase last year, a more conservative increase might be prudent to avoid hitting a price ceiling where demand starts to drop. An increase in the range or 10-15% in price could test the market without risking a significant loss to customers
