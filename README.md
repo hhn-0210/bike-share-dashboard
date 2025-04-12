@@ -12,7 +12,8 @@
 
 ## Recommendation
 ### Conservative price increase
-Considering and substantial increase increase last year (demand? price?), a more conservative increase might be prudent to avoid hitting a price ceiling where demand starts to drop. An increase in the range or 10-15% in price could test the market without risking a significant loss to customers
+Considering and substantial 25% in price increase last year, a more conservative increase might be prudent to avoid hitting a price ceiling where demand starts to drop. An increase in the range or 10-15% in price could test the market without risking a significant loss to customers
+
 ### Price setting:
 If the price in 2022 was $4.99, a 10% increase would make the new price $5.49 and a 15% increase would make it $5.74
 
