@@ -18,6 +18,8 @@ If the price in 2022 was $4.99, a 10% increase would make the new price $5.49 an
 
 ### Recommended strategy: 
 __Market analysis__: Conduct further market research to understand customer satisfaction, potential competitive changes, overall economic environment. This can guide weather leaning towards lower or higher end of suggested price increase.
+
 __Segmented pricing strategy__: Consider different pricing for casual vs registered users, as they might have different price sensitivity.
+
 __Monitor and adjust__: implement new prices but be ready based on immediate feedback and sales data. Monitor closely will allow you to fine tune your pricing startegy without committing fully to a price that might turn out too high.
 
